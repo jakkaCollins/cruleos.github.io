@@ -104,3 +104,20 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+
+/* Mobile optimisations */
+@media only screen and (max-width: 1026px) {
+
+    #content {
+        width: 100%;
+        padding: 16px;
+    }
+
+    #splash {
+        width: 100%;
+        padding: 16px;
+    }
+    
+}
+  
+  
