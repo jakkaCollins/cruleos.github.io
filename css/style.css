@@ -110,17 +110,20 @@ table {
 
     #content {
         width: 100%;
-        padding: 2vw;
+        padding-left: 50px !important;
+        padding-right: 50px !important;
     }
 
     #splash {
         width: 100%;
-        padding: 2vw;
+        padding-left: 50px !important;
+        padding-right: 50px !important;
     }
 
     #footer {
         width: 100%;
-        padding: 2vw;
+        padding-left: 50px !important;
+        padding-right: 50px !important;
     }
 
     h1 {
@@ -138,22 +141,16 @@ table {
         font-size: 2.5vh !important;
         margin-bottom: 3vh !important;
     }
+
+    li {
+        font-size: 2.5vh !important;
+        margin-bottom: 3vh !important
+    }
     
     h6 {
         font-size: 1.7vh !important;
         margin-bottom: 3vh !important;
         margin-top: 3vh !important;
-    }
-    
-    .content {
-        width: 100%;
-        padding-left: 50px !important;
-        padding-right: 50px !important;
-    }
-
-    .title {
-        margin: auto !important;
-        padding: 10vw;
     }
     
 }
